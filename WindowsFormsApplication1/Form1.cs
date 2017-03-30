@@ -49,7 +49,8 @@ namespace WindowsFormsApplication1
 
             int i = 1;
             bool go = true;
-
+           
+            //test git
 
             Image newImage = Image.FromFile("C:\\2017_03_17_3.jpg");
             ResizeImage(newImage, 2000, 3000);
